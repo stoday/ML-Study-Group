@@ -6,8 +6,8 @@
 
 
 
-## 開發環境架設
-1. 下載 Python 3.6.8 並安裝
+## 開發環境
+1. 下載並安裝 Python 3.6.8 
 https://www.python.org/downloads/release/python-368/
 
 2. 安裝相關需求套件
