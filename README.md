@@ -1,4 +1,4 @@
-# 深度學習教學
+# 讀書會分享
 
 ## 教材
 台大李宏毅「一日搞懂深度學習」
@@ -15,6 +15,4 @@ https://www.python.org/downloads/release/python-368/
 pip install -r requirements
 ```
 
-## 課程目標
-學習成員共同完成 "Symptom performing in Unison with Alive-cycle Neural Networks (SUAN NET)"
 
